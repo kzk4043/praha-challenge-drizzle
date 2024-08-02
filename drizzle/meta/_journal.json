@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1722556520742,
+      "tag": "0000_wet_punisher",
+      "breakpoints": true
+    }
+  ]
+}
