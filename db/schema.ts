@@ -5,6 +5,7 @@ export const todos = sqliteTable("todos", {
     autoIncrement: true,
   }),
   name: text("name"),
+  userId: text("userId"),
   isCompleted: integer("isCompleted", { mode: "boolean" })
     .notNull()
     .default(false),
